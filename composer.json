@@ -1,0 +1,6 @@
+{
+    "require": {
+        "orbitale/cms-bundle": "^3.0",
+        "symfony/apache-pack": "^1.0"
+    }
+}
